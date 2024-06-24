@@ -1,0 +1,1 @@
+pytest -v G:\Python\OrangeHRM\TestCases\Login_Data_ddt.py --html=Report/report.html --browser Edge -p no:Warning

@@ -1,0 +1,521 @@
+2024-06-23 21:55:56,653 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-23 21:55:56,653 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-23 21:56:05,877 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-23 21:56:11,658 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 21:56:11,773 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 21:56:13,580 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 21:56:15,746 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 47 : Click on Menu Button:
+2024-06-23 21:56:16,549 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 49 : Click on LogOut Button:
+2024-06-23 21:56:16,549 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 51 : test_Login_ddt testcase is passed:
+2024-06-23 21:56:16,724 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 53 : test_Login_ddt data uploaded in Excel Sheet: Pass:
+2024-06-23 21:56:21,963 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 21:56:22,103 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 21:56:23,231 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 21:56:33,319 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 21:56:33,735 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 21:56:38,821 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 21:56:38,947 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 21:56:39,016 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 21:56:50,529 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 21:56:50,708 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 21:56:55,790 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 21:56:55,918 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 21:56:56,916 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 21:57:06,995 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 21:57:07,209 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 21:57:07,450 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is completed:
+2024-06-23 22:00:48,422 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-23 22:00:48,442 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-23 22:00:49,118 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-23 22:01:07,102 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:01:07,254 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:01:08,688 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:01:10,844 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 47 : Click on Menu Button:
+2024-06-23 22:01:11,994 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 49 : Click on LogOut Button:
+2024-06-23 22:01:11,995 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 51 : test_Login_ddt testcase is passed:
+2024-06-23 22:01:12,066 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 53 : test_Login_ddt data uploaded in Excel Sheet: Pass:
+2024-06-23 22:01:17,595 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:01:17,749 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:01:17,810 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:01:28,959 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:01:29,136 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:01:34,212 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:01:34,354 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:01:34,451 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:01:46,013 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:01:46,185 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:01:51,268 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:01:51,382 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:01:51,453 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:02:02,701 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:02:02,920 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:02:03,165 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is completed:
+2024-06-23 22:04:10,961 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-23 22:04:10,961 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-23 22:04:15,322 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-23 22:04:16,009 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:04:16,159 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:04:17,422 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:04:18,710 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 47 : Click on Menu Button:
+2024-06-23 22:04:19,517 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 49 : Click on LogOut Button:
+2024-06-23 22:04:19,517 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 51 : test_Login_ddt testcase is passed:
+2024-06-23 22:04:19,568 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 53 : test_Login_ddt data uploaded in Excel Sheet: Pass:
+2024-06-23 22:04:19,980 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:04:20,078 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:04:20,846 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:04:30,936 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:04:31,211 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:04:31,386 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:04:31,552 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:04:32,998 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:04:43,064 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:04:43,231 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:04:43,315 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:04:43,432 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:04:44,729 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:04:54,817 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:04:54,994 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:04:55,242 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is completed:
+2024-06-23 22:15:09,981 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-23 22:15:09,987 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-23 22:15:16,292 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-23 22:15:17,392 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:15:17,758 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:15:18,029 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:15:21,674 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 47 : Click on Menu Button:
+2024-06-23 22:15:22,465 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 49 : Click on LogOut Button:
+2024-06-23 22:15:22,466 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 51 : test_Login_ddt testcase is passed:
+2024-06-23 22:15:22,497 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 53 : test_Login_ddt data uploaded in Excel Sheet: Pass:
+2024-06-23 22:17:31,843 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-23 22:17:31,867 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-23 22:17:36,757 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-23 22:17:37,460 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:17:38,206 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:17:38,343 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:17:40,847 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 47 : Click on Menu Button:
+2024-06-23 22:17:41,713 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 49 : Click on LogOut Button:
+2024-06-23 22:17:41,714 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 51 : test_Login_ddt testcase is passed:
+2024-06-23 22:17:41,760 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 53 : test_Login_ddt data uploaded in Excel Sheet: Pass:
+2024-06-23 22:17:42,131 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:17:42,236 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:17:42,973 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:17:53,047 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:17:53,317 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:17:53,395 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:17:53,562 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:17:54,897 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:18:04,934 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:18:05,129 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:18:05,234 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:18:05,350 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:18:06,430 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:18:16,490 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:18:16,674 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:18:16,979 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is completed:
+2024-06-23 22:18:44,385 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-23 22:18:44,386 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-23 22:18:46,748 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-23 22:18:56,231 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-23 22:18:56,232 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-23 22:18:59,224 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-23 22:21:21,779 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-23 22:21:21,803 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-23 22:21:26,487 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-23 22:21:27,125 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:21:27,572 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:21:27,726 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:21:30,226 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 47 : Click on Menu Button:
+2024-06-23 22:21:31,131 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 49 : Click on LogOut Button:
+2024-06-23 22:21:31,131 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 51 : test_Login_ddt testcase is passed:
+2024-06-23 22:21:31,175 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 53 : test_Login_ddt data uploaded in Excel Sheet: Pass:
+2024-06-23 22:21:31,618 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:21:31,739 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:21:32,647 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:21:42,688 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:21:42,950 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:21:43,033 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:21:43,216 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:21:43,295 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:21:54,586 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:21:54,786 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:21:54,871 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:21:54,988 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:21:55,055 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:22:06,103 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:22:06,306 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:22:06,633 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is completed:
+2024-06-23 22:27:15,213 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-23 22:27:15,236 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-23 22:27:19,079 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-23 22:27:19,724 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:27:20,034 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:27:21,336 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:27:22,677 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 47 : Click on Menu Button:
+2024-06-23 22:27:23,556 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 49 : Click on LogOut Button:
+2024-06-23 22:27:23,556 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 51 : test_Login_ddt testcase is passed:
+2024-06-23 22:27:23,582 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 53 : test_Login_ddt data uploaded in Excel Sheet: Pass:
+2024-06-23 22:27:23,972 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:27:24,074 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-23 22:27:24,821 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:27:34,883 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:27:35,146 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:27:35,230 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-23 22:27:35,421 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:27:36,714 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:27:46,779 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:27:46,960 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:27:47,043 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-23 22:27:47,161 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-23 22:27:47,229 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-23 22:27:58,187 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-23 22:27:58,362 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-23 22:27:58,664 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is completed:
+2024-06-24 11:41:52,456 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 21 : test_login testcase is Started:
+2024-06-24 11:41:52,495 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 22 : Opening Browser:
+2024-06-24 11:41:57,820 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 11:42:03,172 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 21 : test_login testcase is Started:
+2024-06-24 11:42:03,173 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 22 : Opening Browser:
+2024-06-24 11:42:06,784 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 11:42:12,102 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 21 : test_login testcase is Started:
+2024-06-24 11:42:12,102 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 22 : Opening Browser:
+2024-06-24 11:42:13,145 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 11:42:19,969 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 21 : test_login testcase is Started:
+2024-06-24 11:42:19,970 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 22 : Opening Browser:
+2024-06-24 11:42:20,830 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 11:43:35,768 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 21 : test_login testcase is Started:
+2024-06-24 11:43:35,768 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 22 : Opening Browser:
+2024-06-24 11:43:39,146 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 11:43:42,322 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 21 : test_login testcase is Started:
+2024-06-24 11:43:42,323 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 22 : Opening Browser:
+2024-06-24 11:43:43,050 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 11:43:47,452 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 21 : test_login testcase is Started:
+2024-06-24 11:43:47,454 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 22 : Opening Browser:
+2024-06-24 11:43:50,563 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 11:43:55,055 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 21 : test_login testcase is Started:
+2024-06-24 11:43:55,055 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 22 : Opening Browser:
+2024-06-24 11:44:04,077 : INFO : test_Login_params.py: Test_Login_Params : test_login_params : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:12:19,479 : INFO : test_case_Object.py: TestCases : test_url : 23 : test_url testcase is Started:
+2024-06-24 15:12:19,488 : INFO : test_case_Object.py: TestCases : test_url : 24 : Opening Browser:
+2024-06-24 15:12:24,468 : INFO : test_case_Object.py: TestCases : test_url : 27 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:12:24,687 : INFO : test_case_Object.py: TestCases : test_url : 31 : test_url is pass:
+2024-06-24 15:12:24,697 : INFO : test_case_Object.py: TestCases : test_url : 32 : Page title isOrangeHRM:
+2024-06-24 15:12:24,984 : INFO : test_case_Object.py: TestCases : test_url : 38 : test_url testcase is Completed:
+2024-06-24 15:12:28,405 : INFO : test_case_Object.py: TestCases : test_login : 61 : test_login testcase is Started:
+2024-06-24 15:12:28,405 : INFO : test_case_Object.py: TestCases : test_login : 62 : Opening Browser:
+2024-06-24 15:12:32,533 : INFO : test_case_Object.py: TestCases : test_login : 65 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:12:33,822 : INFO : test_case_Object.py: TestCases : test_login : 70 : Entered UsernameAdmin:
+2024-06-24 15:12:33,980 : INFO : test_case_Object.py: TestCases : test_login : 72 : Entered Passwordadmin123:
+2024-06-24 15:12:34,091 : INFO : test_case_Object.py: TestCases : test_login : 74 : Click on Login Button:
+2024-06-24 15:12:36,743 : INFO : test_case_Object.py: TestCases : test_login : 78 : Click on Menu Button:
+2024-06-24 15:12:37,827 : INFO : test_case_Object.py: TestCases : test_login : 80 : Click on LogOut Button:
+2024-06-24 15:12:37,828 : INFO : test_case_Object.py: TestCases : test_login : 81 : test_login id passed:
+2024-06-24 15:12:38,058 : INFO : test_case_Object.py: TestCases : test_login : 88 : test_login testcase is completed:
+2024-06-24 15:12:42,205 : INFO : test_case_Object.py: TestCases : test_login_issue : 92 : test_login testcase is Started:
+2024-06-24 15:12:42,205 : INFO : test_case_Object.py: TestCases : test_login_issue : 93 : Opening Browser:
+2024-06-24 15:12:45,875 : INFO : test_case_Object.py: TestCases : test_login_issue : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:12:49,644 : INFO : test_case_Object.py: TestCases : test_login_issue : 92 : test_login testcase is Started:
+2024-06-24 15:12:49,644 : INFO : test_case_Object.py: TestCases : test_login_issue : 93 : Opening Browser:
+2024-06-24 15:12:50,579 : INFO : test_case_Object.py: TestCases : test_login_issue : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:12:56,168 : INFO : test_case_Object.py: TestCases : test_login_issue : 92 : test_login testcase is Started:
+2024-06-24 15:12:56,169 : INFO : test_case_Object.py: TestCases : test_login_issue : 93 : Opening Browser:
+2024-06-24 15:13:02,169 : INFO : test_case_Object.py: TestCases : test_login_issue : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:13:16,502 : INFO : test_case_Object.py: TestCases : test_login_issue : 92 : test_login testcase is Started:
+2024-06-24 15:13:16,502 : INFO : test_case_Object.py: TestCases : test_login_issue : 93 : Opening Browser:
+2024-06-24 15:13:20,649 : INFO : test_case_Object.py: TestCases : test_login_issue : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:13:25,027 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 123 : test_login testcase is started:
+2024-06-24 15:13:25,027 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 124 : Opening Browser:
+2024-06-24 15:13:31,333 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 127 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:13:32,811 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 134 : Enter UsernameAdmin:
+2024-06-24 15:13:33,704 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 136 : Enter Passwordadmin123:
+2024-06-24 15:13:33,853 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 138 : Click on Login Button:
+2024-06-24 15:13:39,286 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 140 : Click on PIM Button:
+2024-06-24 15:13:40,579 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 142 : Click on Add_Employee Button:
+2024-06-24 15:13:41,401 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 144 : Enter First Name:
+2024-06-24 15:13:41,640 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 146 : Enter Middle Name:
+2024-06-24 15:13:41,819 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 148 : Enter Last Name:
+2024-06-24 15:13:41,918 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 150 : Enter Employee ID:
+2024-06-24 15:13:42,027 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 152 : Click on Save Button:
+2024-06-24 15:13:47,558 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 156 : Click on Menu Button:
+2024-06-24 15:13:48,956 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 158 : Click on LogOut Button:
+2024-06-24 15:13:48,956 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 159 : test_login testcase is passed:
+2024-06-24 15:13:49,187 : INFO : test_case_Object.py: TestCases : test_AddEmployee : 167 : test_login testcase is completed:
+2024-06-24 15:13:51,953 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 173 : test_searchEmployee testcase is started:
+2024-06-24 15:13:51,954 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 174 : Opening Browser:
+2024-06-24 15:13:57,740 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 177 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:13:58,919 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 183 : Enter Username: Admin:
+2024-06-24 15:14:00,241 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 185 : Enter Password: admin123:
+2024-06-24 15:14:02,822 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 187 : Click on Login Button:
+2024-06-24 15:14:05,014 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 189 : Click on PIM Button:
+2024-06-24 15:14:07,324 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 194 : Enter Search Employee Button:
+2024-06-24 15:14:13,002 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 197 : Enter Employee Name and Fill the Name:
+2024-06-24 15:14:13,111 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 199 : Click on Search Button:
+2024-06-24 15:14:19,155 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 202 : Click on Employee List Bar:
+2024-06-24 15:14:19,657 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 204 : Employee status has found:
+2024-06-24 15:14:20,146 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 207 : Click on Menu Button:
+2024-06-24 15:14:21,560 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 209 : Click on Log Out Button:
+2024-06-24 15:14:21,560 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 210 : test_searchEmployee testcase is passed:
+2024-06-24 15:14:21,802 : INFO : test_case_Object.py: TestCases : test_searchEmployee : 222 : test_searchEmployee testcase is completed:
+2024-06-24 15:49:05,770 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : test_login testcase is Started:
+2024-06-24 15:49:05,795 : INFO : test_case_Object.py: TestCases : test_login_param : 95 : Opening Browser:
+2024-06-24 15:49:13,989 : INFO : test_case_Object.py: TestCases : test_login_param : 98 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:49:18,510 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : test_login testcase is Started:
+2024-06-24 15:49:18,511 : INFO : test_case_Object.py: TestCases : test_login_param : 95 : Opening Browser:
+2024-06-24 15:49:19,414 : INFO : test_case_Object.py: TestCases : test_login_param : 98 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:49:23,523 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : test_login testcase is Started:
+2024-06-24 15:49:23,524 : INFO : test_case_Object.py: TestCases : test_login_param : 95 : Opening Browser:
+2024-06-24 15:49:30,083 : INFO : test_case_Object.py: TestCases : test_login_param : 98 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:49:35,212 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : test_login testcase is Started:
+2024-06-24 15:49:35,214 : INFO : test_case_Object.py: TestCases : test_login_param : 95 : Opening Browser:
+2024-06-24 15:49:36,115 : INFO : test_case_Object.py: TestCases : test_login_param : 98 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:52:38,711 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : test_login testcase is Started:
+2024-06-24 15:52:38,732 : INFO : test_case_Object.py: TestCases : test_login_param : 95 : Opening Browser:
+2024-06-24 15:52:47,088 : INFO : test_case_Object.py: TestCases : test_login_param : 98 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:52:50,900 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : test_login testcase is Started:
+2024-06-24 15:52:50,901 : INFO : test_case_Object.py: TestCases : test_login_param : 95 : Opening Browser:
+2024-06-24 15:52:56,756 : INFO : test_case_Object.py: TestCases : test_login_param : 98 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:53:03,993 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : test_login testcase is Started:
+2024-06-24 15:53:03,994 : INFO : test_case_Object.py: TestCases : test_login_param : 95 : Opening Browser:
+2024-06-24 15:53:11,649 : INFO : test_case_Object.py: TestCases : test_login_param : 98 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 15:53:16,890 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : test_login testcase is Started:
+2024-06-24 15:53:16,890 : INFO : test_case_Object.py: TestCases : test_login_param : 95 : Opening Browser:
+2024-06-24 15:53:22,612 : INFO : test_case_Object.py: TestCases : test_login_param : 98 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:08:29,089 : INFO : test_case_Object.py: TestCases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:08:29,110 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:08:39,475 : INFO : test_case_Object.py: TestCases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:08:45,126 : INFO : test_case_Object.py: TestCases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:08:45,126 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:08:53,820 : INFO : test_case_Object.py: TestCases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:09:00,252 : INFO : test_case_Object.py: TestCases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:09:00,253 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:09:14,936 : INFO : test_case_Object.py: TestCases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:09:19,735 : INFO : test_case_Object.py: TestCases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:09:19,735 : INFO : test_case_Object.py: TestCases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:09:25,438 : INFO : test_case_Object.py: TestCases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:10:24,125 : INFO : test_case_Object.py: Test_Cases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:10:24,159 : INFO : test_case_Object.py: Test_Cases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:10:30,789 : INFO : test_case_Object.py: Test_Cases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:10:33,372 : INFO : test_case_Object.py: Test_Cases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:10:33,372 : INFO : test_case_Object.py: Test_Cases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:10:56,427 : INFO : test_case_Object.py: Test_Cases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:10:58,958 : INFO : test_case_Object.py: Test_Cases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:10:58,963 : INFO : test_case_Object.py: Test_Cases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:11:10,662 : INFO : test_case_Object.py: Test_Cases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:11:13,211 : INFO : test_case_Object.py: Test_Cases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:11:13,211 : INFO : test_case_Object.py: Test_Cases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:11:21,677 : INFO : test_case_Object.py: Test_Cases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:23:42,367 : INFO : test_case_Object.py: Test_Cases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:23:42,398 : INFO : test_case_Object.py: Test_Cases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:23:54,623 : INFO : test_case_Object.py: Test_Cases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:24:39,722 : INFO : test_case_Object.py: Test_Cases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:24:39,743 : INFO : test_case_Object.py: Test_Cases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:24:54,160 : INFO : test_case_Object.py: Test_Cases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:25:45,971 : INFO : test_case_Object.py: Test_Cases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:25:46,000 : INFO : test_case_Object.py: Test_Cases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:25:48,447 : INFO : test_case_Object.py: Test_Cases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:28:28,624 : INFO : test_case_Object.py: Test_Cases : test_login_param : 93 : test_login testcase is Started:
+2024-06-24 16:28:28,650 : INFO : test_case_Object.py: Test_Cases : test_login_param : 94 : Opening Browser:
+2024-06-24 16:28:39,404 : INFO : test_case_Object.py: Test_Cases : test_login_param : 97 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:30:11,857 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:30:11,885 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:30:17,404 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:38:26,548 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:38:26,574 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:38:39,336 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:38:42,658 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:38:42,658 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:38:50,969 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:38:57,902 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:38:57,902 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:39:07,138 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:39:13,971 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:39:13,971 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:39:27,980 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:42:33,933 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:42:33,959 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:42:40,688 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:42:45,044 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:42:45,044 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:42:50,922 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:42:58,224 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:42:58,225 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:43:05,800 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:43:11,983 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:43:11,983 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:43:22,357 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:45:51,862 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:45:51,884 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:45:59,930 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:46:04,223 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:46:04,224 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:46:15,810 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:46:20,251 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:46:20,251 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:46:35,156 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:46:39,594 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:46:39,595 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:46:58,720 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:47:36,451 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:47:36,505 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:47:41,276 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:47:45,537 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:47:45,538 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:47:52,179 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:47:56,901 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:47:56,902 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:48:03,823 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:48:08,807 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:48:08,807 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:48:13,580 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:53:07,073 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:53:07,099 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:53:12,419 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:53:26,968 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:53:26,968 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:53:31,550 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:53:45,521 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:53:45,522 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:53:49,196 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:54:02,329 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:54:02,329 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:54:09,867 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:58:13,295 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:58:13,323 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:58:18,423 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:58:33,654 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:58:33,654 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:58:42,559 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:58:55,525 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:58:55,526 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:58:59,665 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 16:59:13,882 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 16:59:13,882 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 16:59:21,126 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:03:08,368 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:03:08,397 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:03:13,204 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:03:27,582 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:03:27,583 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:03:28,376 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:03:43,712 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:03:43,713 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:03:47,840 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:04:01,253 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:04:01,257 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:04:06,619 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:10:37,541 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:10:37,543 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:10:38,928 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:10:42,628 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:10:42,629 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:10:47,008 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:10:51,688 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:10:51,688 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:10:56,194 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:11:02,999 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:11:02,999 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:11:08,341 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:11:50,271 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 19 : test_AddEmployee_ddt testcase is started:
+2024-06-24 17:11:50,299 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 20 : Opening Browser:
+2024-06-24 17:11:54,176 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 23 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:20:38,372 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:20:38,388 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:20:42,881 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:20:46,723 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:20:46,723 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:20:51,971 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:20:57,605 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:20:57,605 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:21:03,640 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:21:08,739 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 92 : test_login testcase is Started:
+2024-06-24 17:21:08,740 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 93 : Opening Browser:
+2024-06-24 17:21:12,595 : INFO : test_case_Object.py: Test_CasesOrangeHRM : test_login_param : 96 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:21:35,176 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 21 : test_Login_ddt testcase is started:
+2024-06-24 17:21:35,177 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 22 : Opening Browser:
+2024-06-24 17:21:41,339 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 25 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:21:42,480 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-24 17:21:42,809 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-24 17:21:42,934 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-24 17:21:45,779 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 47 : Click on Menu Button:
+2024-06-24 17:21:46,711 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 49 : Click on LogOut Button:
+2024-06-24 17:21:46,711 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 51 : test_Login_ddt testcase is passed:
+2024-06-24 17:21:46,792 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 53 : test_Login_ddt data uploaded in Excel Sheet: Pass:
+2024-06-24 17:21:47,124 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-24 17:21:47,246 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin123:
+2024-06-24 17:21:48,011 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-24 17:21:58,081 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-24 17:21:58,268 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-24 17:21:58,391 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin:
+2024-06-24 17:21:58,546 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-24 17:21:59,958 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-24 17:22:10,020 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-24 17:22:10,196 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-24 17:22:10,278 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 38 : Enter Username--Admin1:
+2024-06-24 17:22:10,393 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 40 : Enter Password--admin1234:
+2024-06-24 17:22:10,452 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 42 : Click on Login Button:
+2024-06-24 17:22:21,439 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 62 : test_Login_ddt data uploaded in Excel Sheet: Fail:
+2024-06-24 17:22:21,609 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 64 : test_Login_ddt testcase is failed:
+2024-06-24 17:22:21,897 : INFO : Login_Data_ddt.py: Test_Login_DDT : test_Login_ddt : 67 : test_Login_ddt testcase is completed:
+2024-06-24 17:50:09,956 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 19 : test_AddEmployee_ddt testcase is started:
+2024-06-24 17:50:09,965 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 20 : Opening Browser:
+2024-06-24 17:50:14,020 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 23 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:50:14,773 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 29 : Enter UsernameAdmin:
+2024-06-24 17:50:14,976 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 31 : Enter Passwordadmin123:
+2024-06-24 17:50:17,057 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 33 : Click on Login Button:
+2024-06-24 17:50:19,642 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 35 : Click on PIM Button:
+2024-06-24 17:50:20,829 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 39 : Click on Add_Employee Button:
+2024-06-24 17:52:07,344 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 19 : test_AddEmployee_ddt testcase is started:
+2024-06-24 17:52:07,367 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 20 : Opening Browser:
+2024-06-24 17:52:11,029 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 23 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:52:11,674 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 29 : Enter UsernameAdmin:
+2024-06-24 17:52:11,863 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 31 : Enter Passwordadmin123:
+2024-06-24 17:52:11,998 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 33 : Click on Login Button:
+2024-06-24 17:52:15,635 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 35 : Click on PIM Button:
+2024-06-24 17:52:17,121 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 39 : Click on Add_Employee Button:
+2024-06-24 17:54:41,650 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 19 : test_AddEmployee_ddt testcase is started:
+2024-06-24 17:54:41,675 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 20 : Opening Browser:
+2024-06-24 17:54:45,612 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 23 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:54:46,318 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 29 : Enter UsernameAdmin:
+2024-06-24 17:54:46,622 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 31 : Enter Passwordadmin123:
+2024-06-24 17:54:46,717 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 33 : Click on Login Button:
+2024-06-24 17:54:50,116 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 35 : Click on PIM Button:
+2024-06-24 17:54:51,504 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 39 : Click on Add_Employee Button:
+2024-06-24 17:57:50,908 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 19 : test_AddEmployee_ddt testcase is started:
+2024-06-24 17:57:50,931 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 20 : Opening Browser:
+2024-06-24 17:57:52,144 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 23 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-24 17:57:55,610 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 29 : Enter UsernameAdmin:
+2024-06-24 17:57:55,810 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 31 : Enter Passwordadmin123:
+2024-06-24 17:57:57,128 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 33 : Click on Login Button:
+2024-06-24 17:57:58,887 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 35 : Click on PIM Button:
+2024-06-24 17:58:00,118 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 39 : Click on Add_Employee Button:
+2024-06-24 17:58:00,720 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter First NameAman:
+2024-06-24 17:58:00,910 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Middle NameSanjiv:
+2024-06-24 17:58:01,074 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 56 : Enter Last NameTadam:
+2024-06-24 17:58:01,214 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Enter Employee ID:
+2024-06-24 17:58:01,342 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 61 : Click on Save Button:
+2024-06-24 17:58:07,017 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 65 : Employee added successfully:
+2024-06-24 17:58:08,479 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 69 : Click on Add_Employee Button:
+2024-06-24 17:58:09,384 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter First NameNilesh:
+2024-06-24 17:58:09,631 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Middle NameChandrakant:
+2024-06-24 17:58:09,756 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 56 : Enter Last NamePatil:
+2024-06-24 17:58:09,858 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Enter Employee ID:
+2024-06-24 17:58:09,970 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 61 : Click on Save Button:
+2024-06-24 17:58:15,620 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 65 : Employee added successfully:
+2024-06-24 17:58:16,375 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 69 : Click on Add_Employee Button:
+2024-06-24 17:58:17,060 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter First NameSachin:
+2024-06-24 17:58:17,213 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Middle NameRamesh:
+2024-06-24 17:58:17,368 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 56 : Enter Last NameJadhav:
+2024-06-24 17:58:17,466 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Enter Employee ID:
+2024-06-24 17:58:17,528 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 61 : Click on Save Button:
+2024-06-24 17:58:22,539 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 65 : Employee added successfully:
+2024-06-24 17:58:23,245 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 69 : Click on Add_Employee Button:
+2024-06-24 17:58:23,828 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter First NameAakash:
+2024-06-24 17:58:23,931 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Middle NameSanjiv:
+2024-06-24 17:58:24,045 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 56 : Enter Last NameTadam:
+2024-06-24 17:58:24,132 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Enter Employee ID:
+2024-06-24 17:58:24,200 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 61 : Click on Save Button:
+2024-06-24 17:58:29,213 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 65 : Employee added successfully:
+2024-06-24 17:58:29,895 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 69 : Click on Add_Employee Button:
+2024-06-24 17:58:30,485 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 79 : Click on Menu Button:
+2024-06-24 17:58:31,354 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 81 : Click on LogOut Button:
+2024-06-24 17:58:31,354 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 82 : test_AddEmployee_ddt testcase is passed:
+2024-06-24 17:58:31,640 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 88 : test_login testcase is completed:
