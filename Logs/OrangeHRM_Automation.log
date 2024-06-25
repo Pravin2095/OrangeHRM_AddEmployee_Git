@@ -519,3 +519,43 @@
 2024-06-24 17:58:31,354 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 81 : Click on LogOut Button:
 2024-06-24 17:58:31,354 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 82 : test_AddEmployee_ddt testcase is passed:
 2024-06-24 17:58:31,640 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 88 : test_login testcase is completed:
+2024-06-25 09:34:42,364 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 19 : test_AddEmployee_ddt testcase is started:
+2024-06-25 09:34:42,383 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 20 : Opening Browser:
+2024-06-25 09:34:44,165 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 23 : Go to this urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login:
+2024-06-25 09:34:47,887 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 29 : Enter UsernameAdmin:
+2024-06-25 09:34:48,192 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 31 : Enter Passwordadmin123:
+2024-06-25 09:34:48,385 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 33 : Click on Login Button:
+2024-06-25 09:34:51,601 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 35 : Click on PIM Button:
+2024-06-25 09:34:52,733 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 39 : Click on Add_Employee Button:
+2024-06-25 09:34:53,462 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter First NameAman:
+2024-06-25 09:34:53,695 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Middle NameSanjiv:
+2024-06-25 09:34:53,857 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 56 : Enter Last NameTadam:
+2024-06-25 09:34:53,994 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Enter Employee ID:
+2024-06-25 09:34:54,142 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 61 : Click on Save Button:
+2024-06-25 09:34:59,594 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 65 : Employee added successfully:
+2024-06-25 09:35:00,758 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 69 : Click on Add_Employee Button:
+2024-06-25 09:35:02,043 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter First NameNilesh:
+2024-06-25 09:35:02,415 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Middle NameChandrakant:
+2024-06-25 09:35:02,611 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 56 : Enter Last NamePatil:
+2024-06-25 09:35:02,741 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Enter Employee ID:
+2024-06-25 09:35:02,873 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 61 : Click on Save Button:
+2024-06-25 09:35:08,564 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 65 : Employee added successfully:
+2024-06-25 09:35:09,353 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 69 : Click on Add_Employee Button:
+2024-06-25 09:35:10,106 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter First NameSachin:
+2024-06-25 09:35:10,266 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Middle NameRamesh:
+2024-06-25 09:35:10,432 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 56 : Enter Last NameJadhav:
+2024-06-25 09:35:10,545 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Enter Employee ID:
+2024-06-25 09:35:10,637 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 61 : Click on Save Button:
+2024-06-25 09:35:16,768 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 65 : Employee added successfully:
+2024-06-25 09:35:17,399 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 69 : Click on Add_Employee Button:
+2024-06-25 09:35:18,114 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 52 : Enter First NameAakash:
+2024-06-25 09:35:18,264 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 54 : Enter Middle NameSanjiv:
+2024-06-25 09:35:18,404 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 56 : Enter Last NameTadam:
+2024-06-25 09:35:18,525 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 59 : Enter Employee ID:
+2024-06-25 09:35:18,613 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 61 : Click on Save Button:
+2024-06-25 09:35:23,993 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 65 : Employee added successfully:
+2024-06-25 09:35:24,752 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 69 : Click on Add_Employee Button:
+2024-06-25 09:35:25,365 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 79 : Click on Menu Button:
+2024-06-25 09:35:26,232 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 81 : Click on LogOut Button:
+2024-06-25 09:35:26,232 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 82 : test_AddEmployee_ddt testcase is passed:
+2024-06-25 09:35:26,936 : INFO : AddEmployee_ddt.py: Test_Add_Employee_DDT : test_AddEmployee_ddt : 88 : test_login testcase is completed:

@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34528666-6923-4501-b181-28c889752bec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OrangeHRM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,26 +31,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_cases.py.executor": "Run",
-    "Python tests.pytest in AddEmployee_ddt.py.executor": "Run",
-    "Python tests.pytest in Login_Data_ddt.py.executor": "Run",
-    "Python tests.pytest in test_Login_params.py.executor": "Run",
-    "Python tests.pytest in test_case_Object.py.executor": "Run",
-    "Python tests.pytest in test_cases.py.executor": "Run",
-    "Python tests.pytest in test_login_parameters.py.executor": "Run",
-    "Python.AddEmployee_DDT.executor": "Run",
-    "Python.PageObject.executor": "Run",
-    "Python.Testcases.executor": "Run",
-    "Python.test_cases.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "G:/Python/Python_Framework/test_File03_Headless.py",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_cases.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in AddEmployee_ddt.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in Login_Data_ddt.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_Login_params.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_case_Object.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_cases.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_login_parameters.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AddEmployee_DDT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PageObject.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Testcases.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_cases.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Python/Python_Framework/test_File03_Headless.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Python\OrangeHRM\TestCases" />
